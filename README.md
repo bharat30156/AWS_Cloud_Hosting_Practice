@@ -1,4 +1,4 @@
-Spring Boot Project with AWS Hosting Practice (Hibernate & MySQL)
+<h3>Spring Boot Project with AWS Hosting Practice (Hibernate & MySQL)</h3>
 This project is a Java Spring Boot application designed for practicing deployment on AWS. It utilizes Hibernate for object-relational mapping and connects to a MySQL database.
 
 Project Goals:
