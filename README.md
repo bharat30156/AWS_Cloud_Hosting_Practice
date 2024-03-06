@@ -8,7 +8,7 @@ Explore integrating Hibernate for data persistence.
 Learn the process of deploying a Spring Boot application to AWS.
 Tech Stack:
 
-Java
-Spring Boot
-Hibernate
+Java,
+Spring Boot,
+Hibernate,
 MySQL (Database - locally for development)
